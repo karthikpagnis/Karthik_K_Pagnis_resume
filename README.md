@@ -1,76 +1,113 @@
-# Hi there, I'm Karthik K Pagnis 👋
+# Karthik K Pagnis
 
-**AI Engineer | M.Tech Scholar @ IIT Madras**
+# AI Engineer | M.Tech Scholar @ IIT Madras
 
-Results-driven AI Engineer with 1.5+ years of hands-on experience in machine learning, deep learning systems, and intelligent automation. I specialize in developing scalable AI/ML solutions and neural network architectures with 95% coverage.
+Results-driven AI Engineer with 2.5+ years of hands-on experience in machine learning, deep learning systems, and intelligent automation. Specialized in developing scalable AI/ML solutions and neural network architectures with 95% coverage.
 
-* 🔭 **Currently working as:** Design Verification Engineer at SanDisk (Magnit)
-* 🎓 **Studying:** M.Tech in Artificial Intelligence at IIT Madras
-* 🌱 **Focus:** Deep Learning, NLP, Computer Vision, and Predictive Modeling
-* 📫 **Contact:** [pagniskarthik@gmail.com](mailto:pagniskarthik@gmail.com) | [LinkedIn](https://linkedin.com/in/karthik-pagnis/)
-
----
-
-## 🛠 Technical Skills
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | Python, C, SQL |
-| **AI/ML Frameworks** | TensorFlow, Keras, PyTorch, Scikit-learn, XGBoost |
-| **Deep Learning** | CNN, RNN, LSTM, Attention Mechanisms, Transformers |
-| **Data Science** | Pandas, NumPy, Matplotlib, Seaborn, Feature Engineering |
-| **Tools & Platforms** | Git, GitHub, Docker, Linux/Unix, Jupyter, VS Code |
-| **Databases** | MySQL, MongoDB |
+- 🛠️ **Currently working as:** Design Verification Engineer (AI/ML Focus) at SanDisk (Magnit)
+- 🎓 **Studying:** M.Tech in Artificial Intelligence at IIT Madras
+- 🌱 **Focus:** Deep Learning, NLP, Computer Vision, Predictive Modeling
+- 📫 **Contact:** [pagniskarthik@gmail.com](mailto:pagniskarthik@gmail.com) | [LinkedIn](https://www.linkedin.com/in/karthik-pagnis/)
 
 ---
 
-## 💼 Professional Experience
-
-### **SanDisk (Magnit)** | Design Verification Engineer
-*Bengaluru | Feb 2025 - Present*
-* **Innovation:** Engineered Python-based intelligent automation scripts for firmware validation.
-* **Impact:** Architected an AI-powered test framework with predictive analytics, reducing manual effort by **30%** and increasing coverage from 70% to **95%**.
-* **Award:** Received **Trade Secret Award (2025)** for innovative firmware verification methodology.
-
-### **Western Digital (Magnit)** | Design Verification Engineer
-*Bengaluru | July 2024 - Feb 2025*
-* **Automation:** Developed intelligent Python scripts using ML for automated data parsing and pattern recognition.
-* **Optimization:** Built AI-driven dashboards that reduced debug time by **25%** and customer escalations by **20%**.
-
-### **Western Digital** | Validation Engineering Intern
-*Bengaluru | Oct 2023 - June 2024*
-* Eliminated **40%** of manual tasks by developing 5+ intelligent Python automation scripts.
-* Applied data science techniques for root cause analysis, reducing debugging cycles by **15%**.
-
-### **Virato Crypto Trading Bot** | Founder & CEO
-*Bengaluru | Aug 2021 - Jan 2022*
-* Developed an end-to-end automated trading platform using Python and MongoDB, processing 100+ trades.
-* Architected ML-based risk management algorithms scaled to 10+ active users.
+| Domain                | Technologies                                            |
+| --------------------- | ------------------------------------------------------- |
+| **Languages**         | Python, C, SQL                                          |
+| **AI/ML Frameworks**  | TensorFlow, Keras, PyTorch, Scikit-learn, XGBoost       |
+| **Deep Learning**     | CNN, RNN, LSTM, Attention Mechanisms, Transformers      |
+| **Data Science**      | Pandas, NumPy, Matplotlib, Seaborn, Feature Engineering |
+| **Tools & Platforms** | Git, GitHub, Docker, Linux/Unix, Jupyter, VS Code       |
+| **Databases**         | MySQL, MongoDB                                          |
 
 ---
 
-## 📚 Education
+# Karthik K Pagnis
 
-**Indian Institute of Technology Madras (IIT Madras)**
-* *M.Tech in Artificial Intelligence* | 2025 - 2027 (Expected)
+## AI/ML Engineer | Generative AI Engineer
 
-**REVA University**
-* *B.Tech in Artificial Intelligence & Machine Learning* | 2020 - 2024
-* **Honors:** Dean's List (Consistent Academic Excellence)
+### Contact
 
----
-
-## 🚀 Key Projects
-
-### Seeing the World Through Words (Image Captioning)
-*Tech Stack: Python, TensorFlow, Keras, OpenCV*
-* Engineered an end-to-end image captioning system combining **CNN (VGG16/ResNet)** for feature extraction with attention mechanisms.
-* Achieved **85%+ accuracy** on the Flickr8k dataset.
-* Integrated Google Text-to-Speech API for accessibility, aiding visually impaired users.
+- **Email:** pagniskarthik@gmail.com
+- **LinkedIn:** [Karthik Pagnis](https://www.linkedin.com/in/karthik-pagnis/)
+- **GitHub:** [karthikpagnis](https://github.com/karthikpagnis)
+- **Location:** Bengaluru, India
 
 ---
 
-## 🏆 Certifications & Awards
+## Professional Summary
 
-* **Amazon ML Summer School:** Completed intensive program on Deep Neural Networks and Probabilistic Models.
-* **Trade Secret Award:** SanDisk (2025).
+AI/ML Engineer with 2.5+ years at Western Digital/SanDisk, specializing in bridging machine learning with firmware validation and embedded systems. Architected LLM-based automation systems, reducing manual effort by 30% and launch time by 15%. IIT Madras M.Tech candidate with rare hardware/firmware and ML expertise.
+
+---
+
+## Technical Skills
+
+| Category                 | Skills                                                                                          |
+| ------------------------ | ----------------------------------------------------------------------------------------------- |
+| **AI/ML Frameworks**     | PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost, Hugging Face                                 |
+| **Generative AI**        | LLMs, FASTAPI, RAG, LangChain, LangGraph, Vector DBs, Prompt Engineering, Fine-tuning           |
+| **Deep Learning/NLP/CV** | CNN, RNN, Transformers, Attention, SpaCy, NLTK, OpenCV, Pillow, VGG, ResNet                     |
+| **Data Science**         | EDA, Statistical Modelling, Pandas, NumPy, Matplotlib, Seaborn                                  |
+| **Languages/Databases**  | Python, C, SQL, MySQL                                                                           |
+| **Tools/MLOps**          | Git, Docker, Linux/Unix, MLflow, Data Pipelines, Jupyter, VS Code, Pydantic                     |
+| **Soft Skills**          | Leadership, Problem-Solving, Team Collaboration, Communication, Adaptability, Critical Thinking |
+
+---
+
+## Experience
+
+### SanDisk (via Magnit) — Design Verification Engineer (AI/ML Focus)
+
+- Engineered firmware verification methodology; awarded Trade Secret Award (2025).
+- Architected LLM-based NLP pipelines for defect classification and Jira automation, reducing manual triage by 30%.
+- Developed ML pipelines, automated validation, and RAG-based documentation retrieval, reducing launch time by 15%.
+- Improved automated test coverage from 70% to 95% with predictive analytics.
+
+### Western Digital (via Magnit) — Design Verification Engineer
+
+- Built Python automation framework for failure analysis, reducing debug time by 25%.
+- Validated firmware compliance across 50+ regression configurations.
+
+### Western Digital — Intern
+
+- Developed anomaly detection and pattern recognition systems, automating 40% of manual validation tasks.
+- Performed EDA and statistical modelling for firmware failure trends.
+
+### Virato — Founder & AI/ML Engineer
+
+- Founded and architected real-time cryptocurrency trading bot, processing 100+ live trades.
+- Designed ML-based risk management algorithms with hyperparameter tuning.
+
+---
+
+## Projects
+
+- **Seeing the World Through Words — Image Captioning Using Neural Networks**
+  - Engineered end-to-end image captioning system (CNN + LSTM + attention), 85%+ accuracy on Flickr8k.
+  - Integrated Google Text-to-Speech API and beam search decoding for accessibility.
+
+---
+
+## Certifications & Awards
+
+- Trade Secret Award (2025), SanDisk
+- Amazon ML Summer School: Supervised Learning & Deep Neural Networks
+
+---
+
+## Project Methodology Flow
+
+## Project Methodology Flow (Image Captioning Project)
+
+```mermaid
+flowchart TD
+	A[Dataset: Flickr8k Images] --> B[Image Preprocessing (OpenCV)]
+	B --> C[Feature Extraction (CNN: VGG16/ResNet)]
+	C --> D[Caption Tokenization & Sequence Prep]
+	D --> E[LSTM + Attention Model Training (Keras/TensorFlow)]
+	E --> F[Beam Search Decoding for Caption Generation]
+	F --> G[Evaluation (BLEU Score, Accuracy)]
+	G --> H[Integration: Google Text-to-Speech API]
+	H --> I[Accessibility Testing for Visually Impaired]
+```
