@@ -1,6 +1,6 @@
 # Karthik K Pagnis
 
-# AI Engineer | Generative AI Engineer | M.Tech Scholar @ IIT Madras
+# AI/ML Engineer | Generative AI Engineer | M.Tech Scholar @ IIT Madras
 
 Results-driven AI Engineer with 2.5+ years of hands-on experience in machine learning, deep learning systems, and intelligent automation. Specialised in developing scalable AI/ML solutions and neural network architectures with 95% coverage.
 
