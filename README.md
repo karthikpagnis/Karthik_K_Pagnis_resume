@@ -1,43 +1,21 @@
 # Karthik K Pagnis
 
-# AI Engineer | M.Tech Scholar @ IIT Madras
+# AI Engineer | Generative AI Engineer | M.Tech Scholar @ IIT Madras
 
-Results-driven AI Engineer with 2.5+ years of hands-on experience in machine learning, deep learning systems, and intelligent automation. Specialized in developing scalable AI/ML solutions and neural network architectures with 95% coverage.
+Results-driven AI Engineer with 2.5+ years of hands-on experience in machine learning, deep learning systems, and intelligent automation. Specialised in developing scalable AI/ML solutions and neural network architectures with 95% coverage.
 
 - 🛠️ **Currently working as:** Design Verification Engineer (AI/ML Focus) at SanDisk (Magnit)
 - 🎓 **Studying:** M.Tech in Artificial Intelligence at IIT Madras
-- 🌱 **Focus:** Deep Learning, NLP, Computer Vision, Predictive Modeling
-- 📫 **Contact:** [pagniskarthik@gmail.com](mailto:pagniskarthik@gmail.com) | [LinkedIn](https://www.linkedin.com/in/karthik-pagnis/)
+- 🌱 **Focus:** Deep Learning, NLP, Computer Vision, Predictive Modelling
 
 ---
-
-| Domain                | Technologies                                            |
-| --------------------- | ------------------------------------------------------- |
-| **Languages**         | Python, C, SQL                                          |
-| **AI/ML Frameworks**  | TensorFlow, Keras, PyTorch, Scikit-learn, XGBoost       |
-| **Deep Learning**     | CNN, RNN, LSTM, Attention Mechanisms, Transformers      |
-| **Data Science**      | Pandas, NumPy, Matplotlib, Seaborn, Feature Engineering |
-| **Tools & Platforms** | Git, GitHub, Docker, Linux/Unix, Jupyter, VS Code       |
-| **Databases**         | MySQL, MongoDB                                          |
-
----
-
-# Karthik K Pagnis
-
-## AI/ML Engineer | Generative AI Engineer
 
 ### Contact
 
 - **Email:** pagniskarthik@gmail.com
 - **LinkedIn:** [Karthik Pagnis](https://www.linkedin.com/in/karthik-pagnis/)
-- **GitHub:** [karthikpagnis](https://github.com/karthikpagnis)
+- **Phone:** +91 7406903195
 - **Location:** Bengaluru, India
-
----
-
-## Professional Summary
-
-AI/ML Engineer with 2.5+ years at Western Digital/SanDisk, specializing in bridging machine learning with firmware validation and embedded systems. Architected LLM-based automation systems, reducing manual effort by 30% and launch time by 15%. IIT Madras M.Tech candidate with rare hardware/firmware and ML expertise.
 
 ---
 
@@ -66,7 +44,7 @@ AI/ML Engineer with 2.5+ years at Western Digital/SanDisk, specializing in bridg
 
 ### Western Digital (via Magnit) — Design Verification Engineer
 
-- Built Python automation framework for failure analysis, reducing debug time by 25%.
+- Built a Python automation framework for failure analysis, reducing debug time by 25%.
 - Validated firmware compliance across 50+ regression configurations.
 
 ### Western Digital — Intern
@@ -76,7 +54,7 @@ AI/ML Engineer with 2.5+ years at Western Digital/SanDisk, specializing in bridg
 
 ### Virato — Founder & AI/ML Engineer
 
-- Founded and architected real-time cryptocurrency trading bot, processing 100+ live trades.
+- Founded and architected a real-time cryptocurrency trading bot, processing 100+ live trades.
 - Designed ML-based risk management algorithms with hyperparameter tuning.
 
 ---
