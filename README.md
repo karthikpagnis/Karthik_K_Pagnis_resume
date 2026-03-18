@@ -80,12 +80,12 @@ Results-driven AI Engineer with 2.5+ years of hands-on experience in machine lea
 
 ```mermaid
 flowchart TD
-	A[Dataset: Flickr8k Images] --> B[Image Preprocessing (OpenCV)]
-	B --> C[Feature Extraction (CNN: VGG16/ResNet)]
+	A[Dataset: Flickr8k Images] --> B[Image Preprocessing ->OpenCV]
+	B --> C[Feature Extraction -> CNN: VGG16/ResNet]
 	C --> D[Caption Tokenization & Sequence Prep]
-	D --> E[LSTM + Attention Model Training (Keras/TensorFlow)]
+	D --> E[LSTM + Attention Model Training -> Keras/TensorFlow]
 	E --> F[Beam Search Decoding for Caption Generation]
-	F --> G[Evaluation (BLEU Score, Accuracy)]
+	F --> G[Evaluation ->BLEU Score, Accuracy]
 	G --> H[Integration: Google Text-to-Speech API]
 	H --> I[Accessibility Testing for Visually Impaired]
 ```
